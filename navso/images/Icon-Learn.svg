@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 561.7 561.7" enable-background="new 0 0 561.7 561.7" xml:space="preserve">
+<g id="Learn">
+	<g>
+		<g>
+			<circle fill="#595671" cx="280.9" cy="280.9" r="280.9"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				<rect x="200.1" y="329.2" fill="#252C3D" width="162" height="20.2"/>
+			</g>
+			<g>
+				<rect x="200.1" y="266.8" fill="#2F4350" width="162" height="62.9"/>
+			</g>
+			<g>
+				<ellipse fill="#252C3D" cx="281.3" cy="349.9" rx="81.3" ry="29.1"/>
+			</g>
+			<g>
+				<ellipse fill="#2F4350" cx="281.3" cy="329.2" rx="81.3" ry="29.1"/>
+			</g>
+		</g>
+		<g>
+			<polygon fill="#252C3D" points="91.6,257.4 281.3,325 470.6,257.4 281.3,189.8 			"/>
+		</g>
+		<g>
+			<polygon fill="#EB3439" points="369.2,293.6 369.2,378.6 375.7,369.6 382.3,374.3 382.3,288.9 			"/>
+		</g>
+		<g>
+			<polygon fill="#EB3439" points="369.2,293.6 274.3,259.7 287.9,254.6 382.3,288.9 			"/>
+		</g>
+		<g>
+			<ellipse fill="#2F4350" cx="281.3" cy="257.4" rx="6.6" ry="2.3"/>
+		</g>
+	</g>
+	<g>
+		<path fill="none" d="M554.2,341c-21.1,93.5-87.8,169.6-175.7,202.9l52.1,52.1c83.1-39.5,148.9-110.4,181.3-197.7L554.2,341z"/>
+		<path fill="#4C4969" d="M554.2,341l-83.6-83.6l-87.8,31v85.5l-6.6-4.7l-6.6,8.9v-85.5l-7,2.3v33.8V349c0,16-36.2,29.1-81.3,29.1
+			c-44.6,0-81.3-13.2-81.3-29.1v-20.2V295l-108-38.5L378.6,543C466.4,510.5,533.6,434.5,554.2,341z"/>
+	</g>
+</g>
+</svg>
